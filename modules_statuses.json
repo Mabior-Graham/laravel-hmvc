@@ -1,0 +1,7 @@
+{
+    "Blog": true,
+    "Auth": true,
+    "Admin": true,
+    "User": true,
+    "Notifications": true
+}
